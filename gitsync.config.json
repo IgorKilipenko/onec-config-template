@@ -15,7 +15,7 @@
     
     "repositories": {
         "name": "main",
-        "path": "/home/igor/Documents/InfoBase1/store",
+        "path": "~/Documents/1C/${BaseFolder}/storage",
         "dir": "./src",
         "plugins-config": {
             "rename-module": true,
